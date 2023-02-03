@@ -1,0 +1,1 @@
+This is a simple page that will demonstrate basic HTML skills
